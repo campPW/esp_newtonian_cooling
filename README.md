@@ -19,8 +19,20 @@ ESP-IDF stable version (4.0). [ESP-IDF Get Started](https://docs.espressif.com/p
 
 1x 3.3v relay module [3.3v relay module](https://www.amazon.com/gp/product/B07P73PHQY/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)
 
+
 **AWB OneSky Specific Setup**
 
-The telescope I'm using is the popular and highly portable AWB OneSky (https://shop.astronomerswithoutborders.org/products/awb-onesky-reflector-telescope)
+The telescope I'm using is the popular and highly portable AWB OneSky https://shop.astronomerswithoutborders.org/products/awb-onesky-reflector-telescope.
 
+
+
+1.) Remove the 4 screws that attach the mirror holder to OTA.
+
+![OneSky Mirror Holder Screws](https://github.com/campPW/esp_newtonian_cooling/blob/master/onesky%20photos/MVIMG_20200218_131452.jpg "OneSky Mirror Holder Screws")
+
+2.) Remove the 3 mirror clips holding the mirror in place and remove the circular piece of cardboard.
+
+3.) Reattach the mirror and feed DHT22 sensor alongside the mirror. I held the sensor in place with a small piece of scotch mounting tape.
+
+![OneSky Mirror with DHT22 temp sensor](https://github.com/campPW/esp_newtonian_cooling/blob/master/onesky%20photos/internal%20mirror%20temp%20sensor.jpg "OneSky Mirror with DHT22 temp sensor")
 
