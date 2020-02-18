@@ -1,9 +1,9 @@
 # esp_newtonian_cooling
-Esp32 based cooling system meant for use with Newtonian reflectors.
+Esp32 fan system meant for use with Newtonian reflectors.
 
 **Why is cooling necessary?**
 
-Even small temperature differences between the telescope mirror and the ambient air result in image degradatation. This loss of resolution becomes more apparent when observing at higher magnifications. Given most mirrors will not radiate their heat away quickly enough to  match the decreasing night time temperature, a cooling solution is required. A great article on this can be found [here!](https://www.fpi-protostar.com/bgreer/fanselect.htm)
+Small temperature differences between the telescope mirror and the ambient air result in image degradatation. This loss of resolution becomes more apparent when observing at higher magnifications. Given most mirrors will not radiate their heat away quickly enough to  match the decreasing night time temperature, a cooling solution is required. A great article on the necessity of cooling for newtonian reflectors can be found [here!](https://www.fpi-protostar.com/bgreer/fanselect.htm)
 
 **Hardware**
 
