@@ -20,7 +20,7 @@ ESP-IDF stable version (4.0). [ESP-IDF Get Started](https://docs.espressif.com/p
 1x 3.3v relay module [3.3v relay module](https://www.amazon.com/gp/product/B07P73PHQY/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)
 
 
-**AWB OneSky Specific Setup**
+**AWB OneSky Specific Setup (Work in progress)**
 
 The telescope I'm using is the popular and highly portable AWB OneSky https://shop.astronomerswithoutborders.org/products/awb-onesky-reflector-telescope.
 
